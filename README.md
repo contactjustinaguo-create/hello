@@ -1,4 +1,4 @@
-# BFSI PQC Pipeline Learning Dashboard
+# [BFSI PQC Pipeline Learning Dashboard](https://walkthroughdashboard.streamlit.app/#walkthrough-engagement-rate-80-0)
 A Streamlit analytics dashboard paired with a separately built interactive Post-Quantum Cryptography (PQC) walkthrough to answer whether the walkthrough drives pipeline progression for Banking, Financial Services & Insurance (BFSI) prospects.
 Built as a take-home assignment for QuSecure in a 3–4 hour timebox.
 
